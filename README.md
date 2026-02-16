@@ -37,9 +37,8 @@
 @@I'm a lover of technology and art@@
 
 + Living in Uberlândia, Brazil 🇧🇷 ⭐⭐⭐⭐⭐
-- 20 years old
-! Javascript/Typescript and React programmer and always studying some technology
-# Interested in Java, Kubernetes, Prisma and AWS
+- 22 years old
+! FullStack (React + Nodejs) programmer and always studying some technology
 ```
 
 ### 🛠 **My Tools:**
